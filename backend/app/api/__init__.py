@@ -1,0 +1,33 @@
+from . import (
+    health,
+    dashboard,
+    agents,
+    finance,
+    inventory,
+    marketing,
+    support,
+    bi,
+    ceo,
+    workflows,
+    activities,
+    notifications,
+    settings,
+    demo,
+)
+
+__all__ = [
+    "health",
+    "dashboard",
+    "agents",
+    "finance",
+    "inventory",
+    "marketing",
+    "support",
+    "bi",
+    "ceo",
+    "workflows",
+    "activities",
+    "notifications",
+    "settings",
+    "demo",
+]

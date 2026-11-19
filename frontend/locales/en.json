@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "NexusBiz AI",
+    "tagline": "Your Autonomous AI Business Management Partner"
+  },
+  "nav": {
+    "dashboard": "Executive Dashboard",
+    "command_center": "Command Center",
+    "finance": "Finance Management",
+    "inventory": "Inventory Management",
+    "marketing": "Marketing Intelligence",
+    "support": "Customer Support",
+    "agents": "AI Agents",
+    "bi": "Business Intelligence",
+    "recommendations": "AI Recommendations",
+    "activity": "Activity History",
+    "settings": "Settings"
+  },
+  "common": {
+    "launch_demo": "Run Autonomous Demo",
+    "status_online": "6 Agents Online",
+    "workforce_active": "Autonomous Workflow Active",
+    "health_score": "Health Score",
+    "revenue": "Total Revenue",
+    "profit": "Net Profit",
+    "orders": "Total Orders",
+    "customers": "Total Customers",
+    "approve": "Approve Action",
+    "executed": "Executed",
+    "pending": "Pending Approval",
+    "risk_low": "Low Risk",
+    "risk_moderate": "Moderate Risk",
+    "risk_high": "High Risk",
+    "risk_critical": "Critical Risk",
+    "location": "Hyderabad, Pakistan",
+    "business_name": "Ali Garments"
+  }
+}

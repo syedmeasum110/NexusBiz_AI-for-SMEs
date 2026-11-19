@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "NexusBiz AI",
+    "tagline": "آپ کا خود مختار اے آئی کاروباری شراکت دار"
+  },
+  "nav": {
+    "dashboard": "ایگزیکٹو ڈیش بورڈ",
+    "command_center": "کمانڈ سینٹر",
+    "finance": "مالیاتی انتظام",
+    "inventory": "سامان و اسٹاک کا انتظام",
+    "marketing": "مارکیٹنگ انٹیلی جنس",
+    "support": "کسٹمر سپورٹ",
+    "agents": "اے آئی ایجنٹس",
+    "bi": "بزنس انٹیلی جنس",
+    "recommendations": "اے آئی تجاویز",
+    "activity": "سرگرمیوں کی تاریخ",
+    "settings": "ترتیبات"
+  },
+  "common": {
+    "launch_demo": "ڈیمو چلائیں",
+    "status_online": "6 ایجنٹس آن لائن",
+    "workforce_active": "ورک فورس فعال ہے",
+    "health_score": "کاروباری صحت کا اسکور",
+    "revenue": "کل فروخت (آمدنی)",
+    "profit": "خالص منافع",
+    "orders": "کل آرڈرز",
+    "customers": "کل گاہک",
+    "approve": "منظور کریں",
+    "executed": "مکمل ہو گیا",
+    "pending": "منظوری درکار ہے",
+    "risk_low": "کم خطرہ",
+    "risk_moderate": "معتدل خطرہ",
+    "risk_high": "زیادہ خطرہ",
+    "risk_critical": "انتہائی تشویشناک خطرہ",
+    "location": "حیدرآباد، پاکستان",
+    "business_name": "علی گارمنٹس"
+  }
+}
